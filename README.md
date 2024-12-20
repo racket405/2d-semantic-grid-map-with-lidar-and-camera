@@ -19,4 +19,16 @@ This project use 2d lidar and depth camera in ROS system to generate 2d semantic
 [install slamtech_lidar_SDK_ROS2](https://github.com/Slamtec/sllidar_ros2)
 ## 4. Micro-ROS agent
 [install micro_ros_agent](https://github.com/micro-ROS/micro_ros_setup)
+## 5. install Cartographer
+Cartographer is an open-source project for mapping. You can use commandline to install it.
+```
+sudo apt-get install ros-<ros-distro>-cartographer
+sudo apt-get install ros-<ros-distro>-cartographer-ros
+```
+## 6. install navigation2
+Navigation2 is used for point-to-point navigation. You can use commandline to install it.
+```
+sudo apt install ros-<ros2-distro>-navigation2
+sudo apt install ros-<ros2-distro>-nav2-bringup
+```
 
