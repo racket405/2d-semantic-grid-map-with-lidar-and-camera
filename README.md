@@ -1,5 +1,13 @@
 # 2d-semantic-grid-map-with-lidar-and-camera
 This project use 2d lidar and depth camera in ROS system to generate 2d semantic map for robot navigation
+# Hardware
+## 1. Jetson AGX Xavier 64GB 
+![image](https://github.com/user-attachments/assets/b0c80d87-4345-4c07-89a7-d7b9ace9bfd1)
+## 2. Orbbec Gemini2 depth camera
+![image](https://github.com/user-attachments/assets/63abb136-2d9c-4648-906a-e0120b8fa41a)
+## 3. Slamtech rplidar A3
+![image](https://github.com/user-attachments/assets/349a6abb-21e1-42ef-996e-bfa600c2c8f8)
+
 # pre-requsits
 ## 1. OpenCV with CUDA
 [install OpenCV with CUDA using scripts](https://github.com/AastaNV/JEP/tree/master)
