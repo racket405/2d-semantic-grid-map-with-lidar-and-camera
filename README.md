@@ -1,5 +1,7 @@
 # 2d-semantic-grid-map-with-lidar-and-camera
 This project use 2d lidar and depth camera in ROS system to generate 2d semantic map for robot navigation
+![ros_tree](https://github.com/user-attachments/assets/7df88196-a4c5-483b-9333-31a8eb6f4fc1)
+
 # Hardware
 ## 1. Jetson AGX Xavier 64GB 
 ![image](https://github.com/user-attachments/assets/b0c80d87-4345-4c07-89a7-d7b9ace9bfd1)
@@ -15,3 +17,6 @@ This project use 2d lidar and depth camera in ROS system to generate 2d semantic
 [install Orbbec_SDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2)
 ## 3. Slamtech lidar SDK ROS2
 [install slamtech_lidar_SDK_ROS2](https://github.com/Slamtec/sllidar_ros2)
+## 4. Micro-ROS agent
+[install micro_ros_agent](https://github.com/micro-ROS/micro_ros_setup)
+
